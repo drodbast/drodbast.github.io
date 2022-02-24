@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<head>
+    <title>Spoznavanje okolja</title>
+    <link href="./home.css" rel="stylesheet" >
+</head>
+<body>
+    <div id="header">
+        <section class="lblue"><h1>Spoznavanje okolja</h1></section>
+        <br>
+        
+    </div id="header">
+    <div id="main">
+        <h3>Spoznavanje okolja je učni predmet 6. razreda osnovnih šol, kjer se učimo matematike.</h3>
+        <br>
+        <nav>
+            <p><a href="#aritm"><button>Aritmetika</button></a></p>
+            <p><a href="#angl"><button>Angleščina</button></a></p>
+            <p><a href="https://hr.wikipedia.org/wiki/Litoralizacija"><button>Litoralizacija</button></a></p>
+        </nav>
+        <br>
+        <section id="aritm">
+            <h2>Aritmetika</h2>
+            <article>
+                <p>Aritmetika je snov, kjer rišemo trikotnike</p>
+            </article>
+            <figure class="kvadrat">
+                <img src="https://i.ytimg.com/vi/RG_x8VNliZI/maxresdefault.jpg" />
+                <figcaption>Slika kvadrata</figcaption>
+            </figure>
+            <aside><p>"Trikotniki niso tako dobri kot ostalo" -Albert Einstein</p></aside>
+        </section>
+        <section id="angl">
+            <h2>Angleščina</h2>
+            <article>
+                <p>Angleščina je snov, kjer rišemo trikotnike</p>
+            </article>
+            <figure>
+                <video src="./Reggae Shark™.mp4" controls>This video depicts reggae Shark.</video>
+            </figure>
+        </section>
+    </div>
+    <footer>
+        <p>Pozdrav! Iz sončne <strong><em>floride<em></strong>.</p>
+    </footer>
+</body>
+
